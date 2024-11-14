@@ -1,6 +1,9 @@
-body{
+
+.Főkép{
     width: 100%;
+    height: 400px;
+    margin: 0%;
 }
-.navbar{
-    width: 1600px;
+.Szöveg{
+    
 }
