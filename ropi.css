@@ -1,9 +1,34 @@
-
-.Főkép{
+.Főkép {
     width: 100%;
     height: 400px;
     margin: 0%;
 }
-.Szöveg{
-    
+
+
+
+#Sz1 {
+    padding: 26px 90px;
+    font-size: larger;
+}
+
+#Sz2 {
+    padding: 26px 90px;
+    font-size: larger;
+}
+
+#Sz3 {
+    padding: 26px 90px;
+    font-size: larger;
+}
+#Sz4{
+    padding: 26px 200px;
+    font-size: larger;
+}
+#Sz5{
+    padding: 26px 240px;
+    font-size: larger;
+}
+#SzDiv{
+    background-color:rgb(48,52,52);
+    color: white;
 }
