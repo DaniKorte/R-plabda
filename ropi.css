@@ -4,31 +4,23 @@
     margin: 0%;
 }
 
-
-
-#Sz1 {
-    padding: 26px 90px;
-    font-size: larger;
+.szoveg {
+    padding: 26px 80px;
+    font-size:larger;
+    background-color: aliceblue;
+    margin: 2% 2.5%;
+    border-radius: 25px;
+    width: 540px;
 }
 
-#Sz2 {
-    padding: 26px 90px;
-    font-size: larger;
-}
-
-#Sz3 {
-    padding: 26px 90px;
-    font-size: larger;
-}
-#Sz4{
-    padding: 26px 200px;
-    font-size: larger;
-}
-#Sz5{
-    padding: 26px 240px;
-    font-size: larger;
-}
 #SzDiv{
     background-color:rgb(48,52,52);
-    color: white;
+}
+#Kép1{
+    background-color: aliceblue;
+    margin: 2% 2.5%;
+    border-radius: 25px;
+    padding: 26px 70px;
+    width: 540px;
+    
 }
