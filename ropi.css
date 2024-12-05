@@ -14,12 +14,23 @@
 }
 
 .szoveg2{
-    padding: 26px 80px;
+    padding: 26px 70px;
     font-size:larger;
     background-color: aliceblue;
     margin: 2% 2.5%;
     border-radius: 25px;
     width: 800px;
+}
+.sz1{
+    text-align: left;
+}
+.szoveg3{
+    padding: 26px 70px;
+    font-size:larger;
+    background-color: aliceblue;
+    margin: 2% 2.5%;
+    border-radius: 25px;
+    width: 680px;
 }
 
 #SzDiv{
@@ -34,8 +45,21 @@
 .kep2{
     width: 500px ;
 }
+.kep3{
+    width: 550px;
+    border-radius: 25px;
+}
+.kep4{
+    float: right;
+    width: 240px;
+    padding: 0px 12px;
+}
+.kep5{
+    width:600px;
+    border-radius: 25px;
+}
 
-.card{
+.card1{
     padding: 0px 0px;
     margin: 2% 2.5%;
     width: 300px;
